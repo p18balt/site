@@ -20,3 +20,6 @@
 [submodule "_gallery"]
 	path = _gallery
 	url = https://github.com/p18balt/_gallery
+[submodule "_slides/images"]
+	path = _slides/images
+	url = https://github.com/p18balt/images
