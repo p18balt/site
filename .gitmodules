@@ -16,7 +16,7 @@
 	url = https://github.com/ContattoContare/text
 [submodule "images"]
 	path = images
-	url = https://github.com/p18balt/images
+	url = https://github.com/ContattoContare/images
 [submodule "_gallery"]
 	path = _gallery
 	url = https://github.com/p18balt/_gallery
