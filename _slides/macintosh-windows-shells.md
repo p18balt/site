@@ -8,4 +8,5 @@ slides:
  - apple-macintosh-1984
  - macintosh-desktop
  - pubtech
+ - nortondesktop
 ---
