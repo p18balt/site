@@ -12,5 +12,5 @@ tags
   - Norton Commander
   - Norton Desktop
   - Dos
-  - Computing Inc.
+  - Computing Inc
 ---
