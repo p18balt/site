@@ -8,6 +8,3 @@
 
 Το 1989 μετέφερε την θέση του chief executive στον Ron Posner η εταιρεία σήμερα έχει δημιουργήσει αρκετά λογισμικά ενώ είναι καινοτόμα στον χώρο των Anti Virus. Ο ίδιος σήμερα έχει την θέση chairman στην eChinaCash και είναι CEO της Posner.
 
-[^1]: fig:norton-profile
-
-{% include figure image_path="/images/norton-profile.jpg" caption="Figure 1:" %}
