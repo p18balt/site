@@ -14,4 +14,4 @@ tags:
   - Computing Inc
 ---
 
-{% include bio-norton.md %}
+{ % include bio-norton.md % }
