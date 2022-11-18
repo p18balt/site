@@ -1,6 +1,6 @@
 Ο Νόρτον ήταν προγραμματιστής και ιδρυτής της Norton Computing.
 
-{% include figure image_path="/images/norton-profile.jpg" caption="Figure 1: Ο Νόρτον ήταν προγραμματιστής στα συστήματα IBM PC και είναι γνωστός για την παραγωγή μερικών διάσημων λογισμικών όπως το Norton Ultilities, Norton Commander." %}
+{% include figure image_path="/images/norton-profile.png" caption="Figure 1: Ο Νόρτον ήταν προγραμματιστής στα συστήματα IBM PC και είναι γνωστός για την παραγωγή μερικών διάσημων λογισμικών όπως το Norton Ultilities, Norton Commander." id="fig:norton-profile.png" %}
 
 Ο Νόρτον ήταν από τους πρώτους που αγόρασε ένα σύστημα IBM PC, ένα ατύχημα  διαγραφής ενός σημαντικού για τον Νόρτον αρχείου ήταν ο λόγος που κατάφερε να αναπτύξει ένα λογισμικό που επανέφερε τα δεδομένα από τον δίσκο. Έπειτα δημιούργησε και άλλα τέτοια utilities και κατάφερε να ιδρύσει την Peter Norton Computing. Η εταιρεία σύντομα έγινε καινοτόμα σε συστήματα IBM PC. 
 
