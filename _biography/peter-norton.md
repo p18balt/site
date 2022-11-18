@@ -13,3 +13,4 @@ tags:
   - Dos
   - Computing Inc
 ---
+{% include bio-norton.md %}
