@@ -7,7 +7,7 @@ caption: "Ο Peter Norton είναι ο ιδρυτής της Computing, Inc. ό
 categories:
   - Βιογραφία 
   - Μέθοδος
-tags
+tags:
   - Peter Norton
   - Norton Commander
   - Norton Desktop
