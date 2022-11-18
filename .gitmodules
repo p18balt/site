@@ -7,3 +7,9 @@
 [submodule "_includes/text"]
 	path = _includes/text
 	url = https://github.com/p18balt/text
+[submodule "_notes"]
+	path = _notes
+	url = https://github.com/p18balt/notes
+[submodule "_quotes"]
+	path = _quotes
+	url = https://github.com/p18balt/_quotes
