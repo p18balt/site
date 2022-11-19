@@ -1,4 +1,6 @@
-
+[submodule "images"]
+	path = images
+	url = https://github.com/p18balt/images
 [submodule "_bibliography"]
 	path = _bibliography
 	url = https://github.com/p18balt/bibliography
