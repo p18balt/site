@@ -12,4 +12,4 @@ tags:
   - Computing Inc
 ---
 
-{% include extras/bio-norton.md %}
+{% include bio-norton.md %}
