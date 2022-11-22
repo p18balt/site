@@ -2,7 +2,7 @@
 
 Μερικά από τα λογισμικά που δημιουργήθηκαν από τον Peter Norton και την Computing είναι τα Norton Utilities που περιλάμβαναν ένα λογισμικό που ήταν σε θέση να επαναφέρει δεδομένα από τον δίσκο για συστήματα που χρησιμοποιούν MS-DOS, IBM PC DOS. Όπως καταλαβαίνουμε τέτοιου είδους καινοτομίες όπως η επαναφορά αρχείων από το δίσκο, για την συγκεκριμένη εποχή ήταν πρωτοπόρες πράγμα που έκανε την Norton Computing να φτάσει 1 εκατομμύριο δολάρια σε μετοχικό κεφάλαιο και όλα αυτά μέσα σε έναν χρόνο. Μερικά από τα λογισμικά που δημιούργησε ο Norton είναι ένας διαχειριστής κειμένου, ένα πρόγραμμα που προβάλει πληροφορίες αναφορικά με τον assembly κώδικα στο εσωτερικό μέρος του συστήματος IBM PC και το Norton Commander έναν εργαλείο διαχείρισης  αρχείων για DOS συστήματα. 
 
-{% include figure image_path="/images/norton-profile.png" caption="Figure 1: Επιπλέον έχει δημοσιεύσει και βιβλία όπως είναι το The Peter Norton Programmer’s Guide to the IBM PC, The New Peter Norton Programmer’s Guide to the IBM PC & PS/2 και τέλος το The Norton Book." id="fig:norton-profile" %}
+{% include figure image_path="/images/norton-profile.png" caption="Figure 1: Επιπλέον έχει δημοσιεύσει και βιβλία όπως είναι το The Peter Norton Programmer’s Guide to the IBM PC,The New Peter Norton Programmer’s Guide to the IBM PC & PS/2 και τέλος το The Norton Book." id="fig:norton-profile" %}
 
 Το 1989 μετέφερε την θέση του chief executive στον Ron Posner η εταιρεία σήμερα έχει δημιουργήσει αρκετά λογισμικά ενώ είναι καινοτόμα στον χώρο των Anti Virus. Ο ίδιος σήμερα έχει την θέση chairman στην eChinaCash και είναι CEO της Posner. 
 
